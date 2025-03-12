@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Alpha Corp",
+    "quarterlyRevenue": [
+      {"quarter": "Q1-2022", "revenue": 75.23},
+      {"quarter": "Q2-2022", "revenue": 88.56},
+      {"quarter": "Q3-2022", "revenue": 68.92},
+      {"quarter": "Q4-2022", "revenue": 92.15},
+      {"quarter": "Q1-2023", "revenue": 79.48},
+      {"quarter": "Q2-2023", "revenue": 85.30},
+      {"quarter": "Q3-2023", "revenue": 72.67},
+      {"quarter": "Q4-2023", "revenue": 89.91}
+    ]
+  },
+  {
+    "company": "Beta Inc",
+    "quarterlyRevenue": [
+      {"quarter": "Q1-2022", "revenue": 155.78},
+      {"quarter": "Q2-2022", "revenue": 170.45},
+      {"quarter": "Q3-2022", "revenue": 185.20},
+      {"quarter": "Q4-2022", "revenue": 201.12},
+      {"quarter": "Q1-2023", "revenue": 215.89},
+      {"quarter": "Q2-2023", "revenue": 232.56},
+      {"quarter": "Q3-2023", "revenue": 248.30},
+      {"quarter": "Q4-2023", "revenue": 265.92}
+    ]
+  },
+  {
+    "company": "Gamma LLC",
+    "quarterlyRevenue": [
+      {"quarter": "Q1-2022", "revenue": 95.50},
+      {"quarter": "Q2-2022", "revenue": 108.72},
+      {"quarter": "Q3-2022", "revenue": 89.15},
+      {"quarter": "Q4-2022", "revenue": 112.48},
+      {"quarter": "Q1-2023", "revenue": 98.82},
+      {"quarter": "Q2-2023", "revenue": 105.60},
+      {"quarter": "Q3-2023", "revenue": 91.95},
+      {"quarter": "Q4-2023", "revenue": 109.20}
+    ]
+  },
+  {
+    "company": "Delta Co",
+    "quarterlyRevenue": [
+      {"quarter": "Q1-2022", "revenue": 65.12},
+      {"quarter": "Q2-2022", "revenue": 78.34},
+      {"quarter": "Q3-2022", "revenue": 59.78},
+      {"quarter": "Q4-2022", "revenue": 82.11},
+      {"quarter": "Q1-2023", "revenue": 68.45},
+      {"quarter": "Q2-2023", "revenue": 75.22},
+      {"quarter": "Q3-2023", "revenue": 61.56},
+      {"quarter": "Q4-2023", "revenue": 79.89}
+    ]
+  }
+]
