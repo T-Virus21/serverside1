@@ -1,5 +1,5 @@
 {
-  "name": "serverside1-server",  // Updated name to reflect your repo
+  "name": "serverside1-server",
   "version": "1.0.0",
   "description": "Server for Greenleaf Organics website to handle signup and login",
   "main": "server.js",
@@ -7,9 +7,9 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.17.1", // Or your current version of Express.js
-    "body-parser": "^1.20.0" // Or your current version of body-parser
+    "express": "^4.17.1",
+    "body-parser": "^1.20.0"
   },
-  "author": "Your Name",
+  "author": "Your Name",  <-- Make sure "Your Name" is in double quotes if it's a string value
   "license": "ISC"
 }
